@@ -5,31 +5,24 @@
      }
     .header{
         width: 300px;
-        margin: 0 auto;
     }
     .left{
         width: 100px;
-        margin:0 auto;
     }
-    .upcenter{
+    .up-center{
         width: 125px;
-        margin:0 auto;
     }
     .right{
         width: 75px;
-        margin:0 auto;
     }
-    .undercenter{
+    .under-center{
         width: 125px;
-        margin: 0 auto;
     }
     .under{
         width: 200px;
-        margin: 0 auto;
     }
     .hooter{
         width: 300px;
-        margin: 0 auto;
     }
 }
 @media screen and (max-width: 479px) {
@@ -37,33 +30,27 @@
         width: 150px;
         margin: 0 auto;
      }
-    .header{
-        width: 150px;
-        margin: 0 auto;
-    }
+     .header{
+        width:150px;
+     }
+    
     .left{
         width: 150px;
-        margin:0 auto;
     }
-    .upcenter{
+    .up-center{
         width: 150px;
-        margin:0 auto;
     }
     .right{
         width: 150px;
-        margin:0 auto;
     }
-    .undercenter{
+    .under-center{
         width: 150px;
-        margin: 0 auto;
     }
     .under{
         width: 150px;
-        margin: 0 auto;
     }
     .hooter{
         width: 150px;
-        margin: 0 auto;
     }
 }
    

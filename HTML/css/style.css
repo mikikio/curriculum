@@ -6,7 +6,7 @@
 
 .clearfix::after {
     content: "";
-    display: block;
+    display: block;x
     clear: both;
  }
 
@@ -23,7 +23,7 @@
     float: left;
 }
 
-.upcenter{
+.up-center{
     width: 150px;
     height: 50px;
     background-color: #bdb400;
@@ -37,7 +37,7 @@
     float: right;
 }
 
-.undercenter{
+.under-center{
     width: 150px;
     height: 100px;
     background-color: #0093b7;
